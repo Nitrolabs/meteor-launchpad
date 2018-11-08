@@ -1,3 +1,7 @@
+## v2.4.0
+- Fix node-fibers bug introduced with node 8.x
+- Fix sporadic issue with gpg keyservers
+
 ## v2.3.0
 
 - Updates for Meteor 1.6 support
