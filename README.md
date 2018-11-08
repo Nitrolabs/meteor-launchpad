@@ -3,7 +3,7 @@
 
 ### About
 This is a new fork of Meteor-Launchpad that includes 2018 patches.
-In particular, this fork includes a patch to the `node-fibers` issue (https://github.com/jshimko/meteor-launchpad/issues/92).
+In particular, this fork includes a patch to the `node-fibers` issue (https://github.com/jshimko/meteor-launchpad/issues/92). Find this project on Dockerhub (https://hub.docker.com/r/nitrolabs/meteor-launchpad/).
 
 ### Build
 
