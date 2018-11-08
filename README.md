@@ -1,6 +1,10 @@
 [![Circle CI](https://circleci.com/gh/jshimko/meteor-launchpad/tree/master.svg?style=svg)](https://circleci.com/gh/jshimko/meteor-launchpad/tree/master)
 # Meteor Launchpad - Base Docker Image for Meteor Apps
 
+### About
+This is a new fork of Meteor-Launchpad that includes 2018 patches.
+In particular, this fork includes a patch to the `node-fibers` issue (https://github.com/jshimko/meteor-launchpad/issues/92).
+
 ### Build
 
 Add the following to a `Dockerfile` in the root of your app:
